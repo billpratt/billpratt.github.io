@@ -1,0 +1,57 @@
+--- 
+layout: default 
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+    <li>
+      {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h2>
+      {{ post.excerpt | strip_html | escape | truncatewords: 80 }}
+    </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | relative_url }}">via RSS</a></p>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    <div style="float: left;">
+      {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="older_posts" style="background-color: #2a7ae2;
+        color: #fff;
+        font-size: 100%;
+        display: inline-block;
+        padding: 0.4em 0.6em;
+        margin-top: 1.5em;
+        border: none;
+        -webkit-appearance: none;
+        border-radius: 0;"><< Older Posts</a>
+      {% endif %}
+    </div>
+    <div class="pagination" style="float: right">
+      {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="newer_posts" style="background-color: #2a7ae2;
+        color: #fff;
+        font-size: 100%;
+        display: inline-block;
+        padding: 0.4em 0.6em;
+        margin-top: 1.5em;
+        border: none;
+        -webkit-appearance: none;
+        border-radius: 0;">Newer Posts >></a> 
+      {% endif %}
+    </div>
+  </div>
+
+</div>
