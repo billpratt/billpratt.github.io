@@ -3,6 +3,8 @@ layout: post
 title: 'Swagger and ASP.NET Web API - Part I: Adding Swagger to Web API project'
 date: 2015-06-07 13:43:59.000000000 -04:00
 permalink: /swagger-and-asp-net-web-api-part-1/
+categories:
+  - asp.net
 ---
 This is part one of a series on using Swagger with ASP.NET Web API.
 

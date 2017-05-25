@@ -3,6 +3,8 @@ layout: post
 title: 'Swagger and ASP.NET Web API - Part II: Enabling OAuth 2.0'
 date: 2016-01-24 15:19:17.000000000 -05:00
 permalink: /part-ii-swagger-and-asp-net-web-api-enabling-oauth2/
+categories:
+  - asp.net
 ---
 **This is part two of a series on using Swagger with ASP.NET Web API. If you haven't already, I encourage you to read 
 [Part I]({{ site.baseurl }}{% link _posts/2015-06-07-swagger-and-asp-net-web-api-part-1.md %}) before continuing.**

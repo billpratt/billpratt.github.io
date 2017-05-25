@@ -3,6 +3,10 @@ layout: post
 title: 'dotnet publish: Where are my XML docs?'
 date: 2017-03-29 20:37:37.000000000 -04:00
 permalink: /dotnet-publish-where-are-my-xml-docs/
+categories:
+  - dotnet
+  - asp.net
+  - asp.net-core
 ---
 ## An ASP.NET Core project.json to csproj migration gotcha
 

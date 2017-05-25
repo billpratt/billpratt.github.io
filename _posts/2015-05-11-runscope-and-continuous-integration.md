@@ -3,6 +3,8 @@ layout: post
 title: Runscope and continuous integration
 date: 2015-05-11 21:39:04.000000000 -04:00
 permalink: /runscope-and-continuous-integration/
+categories:
+  - ci
 ---
 At work we use JetBrains <a href="https://www.jetbrains.com/teamcity/" target="_blank">TeamCity</a> to handle the deployment of all of our websites, both continuous integration and production. We have unit testing setup and it is part of the build steps in TeamCity. Since a lot of our sites have APIs, we were lacking real world API testing. Sure, you can have your unit testing project fire up an in-memory server and test APIs, but wouldn't it be nice to test from external sources and different regions around the world. Run real world tests and experience the same results as your users would. 
 

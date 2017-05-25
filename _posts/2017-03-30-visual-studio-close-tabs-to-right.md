@@ -3,6 +3,9 @@ layout: post
 title: 'Visual Studio: Close Tabs to Right extension'
 date: 2017-03-30 21:08:01.000000000 -04:00
 permalink: /visual-studio-close-tabs-to-right/
+categories:
+  - visual-studio
+  - extensions
 ---
 
 Google Chrome has been my go-to browser now for many years. One of my favorite features is "Close Tabs to the Right", especially when my tabs get out of control like you see below. It's ok, you can admit it, we've all done it.
