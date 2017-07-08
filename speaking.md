@@ -8,12 +8,12 @@ permalink: /speaking/
 
 ### Upcoming Speaking Engagements
 
-06/22/2017 - [ASP.NET Core and Docker in Azure](https://www.meetup.com/DevBoston/events/240161769/)
-
 09/20/2017 - More info soon
 
 
 ### Previous Speaking Engagments
+
+06/22/2017 - [ASP.NET Core and Docker in Azure](https://www.meetup.com/DevBoston/events/240161769/)
 
 06/03/2017 - [Docker And Azure Fundamentals Workshop](https://www.meetup.com/North-Boston-Azure-Cloud-User-Group/events/239047877/)
 
