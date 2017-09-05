@@ -8,10 +8,12 @@ permalink: /speaking/
 
 ### Upcoming Speaking Engagements
 
-09/20/2017 - More info soon
+09/20/2017 - [Getting Started with ASP.NET Core](https://www.meetup.com/Boston-NET-Architecture-Group/events/240583791/)
 
 
 ### Previous Speaking Engagments
+
+08/29/2017 - [Application Insights can be Your Best Friend](https://www.meetup.com/North-Boston-Azure-Cloud-User-Group/events/242203658/)
 
 06/22/2017 - [ASP.NET Core and Docker in Azure](https://www.meetup.com/DevBoston/events/240161769/)
 
