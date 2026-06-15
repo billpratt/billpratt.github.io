@@ -5,7 +5,7 @@ date: 2026-06-15
 categories:
 ---
 
-I've been an individual contributor, a manager, and an architect throughout my career. One thing has remained consistent across all of those roles: I've always enjoyed being hands-on.
+Throughout my career in software engineering, I've been an individual contributor, a manager, and an architect. One thing has remained consistent across all of those roles: I've always enjoyed being hands-on.
 
 Part of that is simply how I'm wired. I've always been a tinkerer. I enjoy understanding how things work under the hood. Whether it's software, technology, or even a LEGO set, I've always found myself drawn to building, experimenting, and seeing how individual pieces come together to create something larger.
 
